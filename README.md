@@ -53,3 +53,9 @@ I wont have to do all tasks again and again, this script will do that for me.
 >
 -  Keep in mind the script is to be executed once you are in the live boot of arch. Just `git clone` this (also install git before that) and then run this script.
 
+
+<br>
+<br>
+<br>
+
+![wip](./wip.png)
