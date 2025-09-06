@@ -1,5 +1,7 @@
 ## What is this?
 
+![wip](./wip.png)
+
 
 - I use a dual boot environment of Win11 with Garuda linux. Many-a-times I have faced the issue of either when windows updates or garuda does, the __GRUB Bootloader__ dissapears.
 
@@ -58,4 +60,4 @@ I wont have to do all tasks again and again, this script will do that for me.
 <br>
 <br>
 
-![wip](./wip.png)
+
